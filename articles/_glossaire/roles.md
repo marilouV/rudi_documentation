@@ -6,7 +6,7 @@ title: Rôles
 # Les différents rôles sur la plateforme Rudi
 
 ## Producteur de données
-Un **Producteur de données** est une personne morale qui a adhéré à la **Fédération Rudi** et qui publie au moins 1 jeu de données accessible via Rudi. Cette publication se fait au moyen d'un **Nœud producteur**.
+Un **Producteur de données** est une personne morale qui a adhéré à la **[Fédération Rudi](http://doc.rudi.bzh/glossaire/general/#f%C3%A9d%C3%A9ration)** et qui publie au moins 1 jeu de données accessible via Rudi. Cette publication se fait au moyen d'un **Nœud producteur**.
 
 ## Réutilisateur
 Un **Réutilisateur** est une personne physique ou morale utilisant des données du catalogue de Rudi. Ses **Réutilisations** peuvent être déclarées sur la plateforme afin de mettre en avant l'utilisation qui est faite des données. Cette déclaration n'est pas obligatoire et requiert l'inscription sur la plateforme. À la différence du **Porteur de projet**, le Réutilisateur est autonome dans sa réutilisation des données, et ne peut accéder qu'aux données ouvertes.
